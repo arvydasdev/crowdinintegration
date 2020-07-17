@@ -1,3 +1,3 @@
 files:
-  - source: en/*.json
+  - source: sources/*.json
     translation: translated/%original_file_name%
